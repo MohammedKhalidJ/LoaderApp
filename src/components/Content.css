@@ -1,0 +1,26 @@
+/* LeftPanel Css */
+.LeftPanel {
+	position: absolute;
+	width: 50%;
+	border-right : 1px solid black;
+	height: 50%;
+	top:10%;
+}
+
+/* RightPanel Css */
+.RightPanel {
+	position: absolute;
+	width: 50%;
+	height: 50%;
+	left: 50%;
+	top:10%;
+}
+
+/* SubnitButton Css */
+.SubnitButton {
+	position: absolute;
+	top:60%;
+	height: 10%;
+	width: 100%;
+	text-align: center;
+}
